@@ -1,4 +1,4 @@
-const API_KEY = "b7c01aa0f5c61220087f240d25e951f9";
+const API_KEY = "API_KEY Will be added";
 
 // Function to fetch weather data
 function fetchWeather() {
